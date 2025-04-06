@@ -1,6 +1,13 @@
 # 📊 Life Insurance EDA — Análise Exploratória de Dados com Python
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![stack: análise de dados](https://img.shields.io/badge/stack-análise%20de%20dados-blue)
+![tool: Google Colab](https://img.shields.io/badge/tool-Google%20Colab-yellow)
+![language: Python](https://img.shields.io/badge/language-Python-3776AB)
+![lib: Pandas](https://img.shields.io/badge/lib-Pandas-black)
+![lib: chardet](https://img.shields.io/badge/lib-Chardet-lightgrey)
+![status: exemplo](https://img.shields.io/badge/status-exemplo-lightblue)
+![license: MIT](https://img.shields.io/badge/license-MIT-green)
+
 
 
 Este repositório apresenta uma **análise exploratória de dados (EDA)** de uma base de dados de seguro de vida, realizada com **Python e Pandas**, dentro do ambiente **Google Colab**.
